@@ -1,15 +1,26 @@
-Fetches data for all collections in your store.
+Shopify Collection Fetcher
 
+A set of scripts to fetch collections from a Shopify store using the AJAX API. These scripts provide methods to fetch a limited set of collections or all collections by paginating through the results.
+Contents
 
-#collection-fetch.js
-       Collections first 30 collections without paginations
-
-#getAllCollections.js
-
-    Shopify paginates the results returned by the AJAX API for performance reasons. By default, endpoints like /collections.json return a limited number of results, often 50 or less. This script provides a method to fetch   all   collections by making multiple requests and aggregating the results.
+    getAllCollections.js: Fetches all collections by making multiple requests and aggregating the results.
+    fetch-collection.js: Fetches the first 30 collections without pagination.
 
 Usage
+1. Using getAllCollections.js
+
+To fetch all collections:
 
     Open your Shopify store in a web browser.
     Launch the browser's developer console.
-    Copy and paste the following script into the console and hit Enter:
+    Copy and paste the contents of getAllCollections.js into the console and hit Enter.
+    The script will print all collections to the console once it completes.
+
+2. Using fetch-collection.js
+
+To fetch the first 30 collections:
+
+    Open your Shopify store in a web browser.
+    Launch the browser's developer console.
+    Copy and paste the contents of fetch-collection.js into the console and hit Enter.
+    The script will print the first 30 collections to the console.
