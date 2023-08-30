@@ -27,7 +27,7 @@ Fetches the current cart data, which includes details about items added to the c
 
 Retrieves data for a specific collection using its handle. This can be useful for inspecting products within a particular collection.
 
-### 🏷 [Fetch Specific Product Data](./fetch-proudct-data)
+### 🏷 [Fetch Specific Product Data](./fetch-product-data)
 
 Fetches data for a specific product by its handle. This provides detailed information about product variants, pricing, and other related attributes.
 
