@@ -43,7 +43,7 @@ Gathers general data about the Shopify store, such as the shop's name, currency,
 By extracting the cart's unique token, troubleshooting cart-related issues becomes more efficient, allowing for direct examination of user-reported cart anomalies by recreating the exact cart state in any browser or device. This snippet is great for diagnosing and addressing cart-specific challenges in real-time.
 ---
 
-###Requirements and limitations
+### Requirements and limitations
 - This is an unauthenticated API. It doesn’t require access tokens or a client ID to access.
 - There are no hard rate limits on the Ajax API. It’s still subject to Shopify’s standard API abuse-prevention measures.
 - All API responses return JSON-formatted data.
