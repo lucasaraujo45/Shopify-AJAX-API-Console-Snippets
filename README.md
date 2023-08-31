@@ -44,7 +44,7 @@ By extracting the cart's unique token, troubleshooting cart-related issues becom
 
 ---
 
-### Requirements and limitations
+## Requirements and limitations
 - This is an unauthenticated API. It doesn’t require access tokens or a client ID to access.
 - There are no hard rate limits on the Ajax API. It’s still subject to Shopify’s standard API abuse-prevention measures.
 - All API responses return JSON-formatted data.
