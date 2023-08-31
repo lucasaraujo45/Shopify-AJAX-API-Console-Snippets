@@ -3,6 +3,9 @@
 A collection of scripts to quickly fetch and inspect various data points from a Shopify store using the browser's console. These scripts utilize the AJAX API provided by Shopify to retrieve real-time data from the storefront.
 
 ---
+![gif example](https://github.com/lucasaraujo45/shopify-dev-console/assets/29403436/a30f8b10-1270-41d8-9889-c4878510b556)
+
+---
 
 ## 🚀 Getting Started
 
@@ -38,12 +41,6 @@ Gathers general data about the Shopify store, such as the shop's name, currency,
 ### 🍪 [Manage Shop Cookie](./get-and-transfer-cart-cookie)
 
 By extracting the cart's unique token, troubleshooting cart-related issues becomes more efficient, allowing for direct examination of user-reported cart anomalies by recreating the exact cart state in any browser or device. This snippet is great for diagnosing and addressing cart-specific challenges in real-time.
-
----
-
-![gif example](https://github.com/lucasaraujo45/shopify-dev-console/assets/29403436/a30f8b10-1270-41d8-9889-c4878510b556)
-
-
 
 ---
 
