@@ -41,7 +41,8 @@ By extracting the cart's unique token, troubleshooting cart-related issues becom
 
 ---
 
-![example gif (1)](https://github.com/lucasaraujo45/shopify-dev-console/assets/29403436/ae6a3c68-1b56-4116-a9c0-99db55bd529e)
+![gif example](https://github.com/lucasaraujo45/shopify-dev-console/assets/29403436/a30f8b10-1270-41d8-9889-c4878510b556)
+
 
 
 ---
