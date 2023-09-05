@@ -15,7 +15,7 @@ A collection of scripts to quickly fetch and inspect various data points from a 
 4. Hit `Enter` to execute the script and view the results.
 
 ---
-
+ 
 ## 📂 Scripts Overview
 
 ### 🛒 [Fetch All Store Collections](./fetch-all-stores-collections)
