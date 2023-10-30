@@ -1,4 +1,4 @@
-# 🛍 Shopify Console Cheat Sheet
+# 🛍 Shopify Console AJAX API Cheat Sheet
 
 A collection of scripts to quickly fetch and inspect various data points from a Shopify store using the browser's console. These scripts utilize the AJAX API provided by Shopify to retrieve real-time data from the storefront.
 
